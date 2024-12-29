@@ -2,8 +2,6 @@
 
 This project demonstrates the use of the XGBoost classifier to classify the famous Iris dataset. The Iris dataset is a multi-class classification problem where the goal is to predict the species of the Iris flower based on the flower's attributes.
 
-# Iris Dataset Classification with XGBoost
-
 ## Dataset
 The Iris dataset contains 150 samples of iris flowers, each with 4 features:
 - Sepal length
